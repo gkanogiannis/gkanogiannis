@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=gkanogiannis)
 
 ### Hi there. 
-👯 I’m currently looking to collaborate on AI/ML/DL/Bioinformatics
+I’m currently looking to collaborate on AI/ML/DL/Bioinformatics
 
 <!--
 **gkanogiannis/gkanogiannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
